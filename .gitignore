@@ -1,5 +1,5 @@
 # Personal data (user fills these)
-data/applications.md
+# data/applications.md  -- committed in private fork
 data/pipeline.md
 data/scan-history.tsv
 reports/*.md
@@ -15,9 +15,9 @@ batch/tracker-additions/*.tsv
 jds/*
 !jds/.gitkeep
 
-# User config
-config/profile.yml
-portals.yml
+# User config (committed in private fork — contains personal data)
+# config/profile.yml
+# portals.yml
 
 # Generated
 .resolved-prompt-*
