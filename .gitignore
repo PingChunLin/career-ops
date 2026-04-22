@@ -1,7 +1,9 @@
 # Personal data (user fills these)
-# data/applications.md  -- committed in private fork
+cv.md
+data/applications.md
 data/pipeline.md
 data/scan-history.tsv
+interview-prep/story-bank.md
 reports/*.md
 !reports/.gitkeep
 output/*
@@ -15,9 +17,9 @@ batch/tracker-additions/*.tsv
 jds/*
 !jds/.gitkeep
 
-# User config (committed in private fork — contains personal data)
-# config/profile.yml
-# portals.yml
+# User config (personal data — not pushed to public repo)
+config/profile.yml
+portals.yml
 
 # Generated
 .resolved-prompt-*
